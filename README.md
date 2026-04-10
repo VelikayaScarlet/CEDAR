@@ -28,7 +28,7 @@ CEDAR: A Chinese Evaluation Dataset for Computational Argumentation
 
  \* corresponding author -->
 
-<div>
+<div align="center">
   <img src="https://github.com/VelikayaScarlet/CEDAR/blob/main/cedartable20.png"/>
 </div>
 
