@@ -37,9 +37,11 @@ CEDAR: A Chinese Evaluation Dataset for Computational Argumentation
 </h2>
 Computational argumentation has received increasing attention in recent years. However, existing debate datasets neglect some important labels for argument mining, generation, and evaluation. Meanwhile, the lack of comprehensively annotated Chinese oral debate datasets hinders progress in this field. To address these gaps, we introduce a comprehensive \textbf{C}hinese \textbf{E}valuation \textbf{D}ataset for Computational \textbf{Ar}gumentation, named \textbf{CEDAR}. Compared to previous datasets, CEDAR includes the essential labels of computational argumentation (claim, stance, evidence) and five additional crucial labels: rhetorical figures, debater roles, modal words, utterance time, and debate results. Moreover, it offers complete transcripts of each debate, including speeches from the Pro and Con sides. Thus, the proposed CEDAR not only supports common argument mining and generation tasks, but also provides resources for rhetorical figure detection, argument quality evaluation, and debate result prediction. This dataset covers 600 debates about 318 topics from Chinese debate competitions. Besides providing a dataset for research, we conduct experiments on common computational argument tasks and a novel task (rhetorical figure detection), in which we also evaluate LLMs. The experimental results highlight the challenging nature of the dataset.
 
-
+<h2 align="center">
+📚Curated by
+</h2>
 <p align="center">
-Curated by: College of Computer Science and National & Local Joint Engineering Research Center of Intelligent Information Processing Technology for Mongolian at Inner Mongolia University
-
+College of Computer Science and National & Local Joint Engineering Research Center of Intelligent Information Processing Technology for Mongolian at Inner Mongolia University
+<br>
 Contact: velikayascarlet@gmail.com
 </p>
